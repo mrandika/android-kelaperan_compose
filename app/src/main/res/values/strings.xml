@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Kelaperan</string>
+
+    <string name="action_back">Back</string>
+    <string name="action_search">Search</string>
+    <string name="action_delete">Delete</string>
+    <string name="placeholder_search">Search Food</string>
+
+    <string name="about_page">about_page</string>
+    <string name="account">Account</string>
+    <string name="location">Location</string>
+    <string name="account_photo">Account Photo</string>
+
+    <string name="reviews">Reviews</string>
+    <string name="food_gallery">Food Gallery</string>
+
+</resources>
